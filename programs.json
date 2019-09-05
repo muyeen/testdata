@@ -1,0 +1,48 @@
+{
+    [
+        {
+          key: 1, 
+          programTitle:"Sample Program 1",
+          programInfo:"Diridhara Live",
+          programTime:"10:00 am",
+          programCoverSource: 'https://picsum.photos/200/300'
+        },
+        {
+          key: 2, 
+          programTitle:"Sample Program 2",
+          programInfo:"Diridhara Live",
+          programTime:"11:00 am",
+          programCoverSource: 'https://picsum.photos/200/300'
+        },
+        {
+          key: 3, 
+          programTitle:"Sample Program 3",
+          programInfo:"Diridhara Live",
+          programTime:"10:00 am",
+          programCoverSource: 'https://picsum.photos/200/300'
+        },
+        {
+          key: 4, 
+          programTitle:"Sample Program 4",
+          programInfo:"Diridhara Live",
+          programTime:"10:00 am",
+          programCoverSource: 'https://picsum.photos/200/300'
+        },
+        {
+          key: 5, 
+          programTitle:"Sample Program 5",
+          programInfo:"Diridhara Live",
+          programTime:"10:00 am",
+          programCoverSource: 'https://picsum.photos/200/300'
+        },
+        {
+          key: 6, 
+          programTitle:"Sample Program 6",
+          programInfo:"Diridhara Live",
+          programTime:"10:00 am",
+          programCoverSource: 'https://picsum.photos/200/300'
+        },
+          
+          
+     ]
+ }
