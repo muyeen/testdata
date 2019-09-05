@@ -1,5 +1,7 @@
 {
-    [
+  "playListTitle": "COMING UP NEXT",
+  "playListDate": "Monday, June 5, 2019",
+  "programs": [
         {
           key: 1, 
           programTitle:"Sample Program 1",
